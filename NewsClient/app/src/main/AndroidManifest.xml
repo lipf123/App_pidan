@@ -45,10 +45,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.WaitingActivity">
-
-
-        </activity>
+        
         <activity android:name=".activity.Activity_Parent"/>
         <activity
             android:name="com.tencent.tauth.AuthActivity"
