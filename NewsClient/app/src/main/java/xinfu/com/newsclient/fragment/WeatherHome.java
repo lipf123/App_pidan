@@ -287,6 +287,10 @@ public class WeatherHome extends Fragment {
                             imgs.get(i).setImageResource(R.drawable.weather_qing);
                         } else if (weathers.get(i).getWeather().equals("阴")) {
                             imgs.get(i).setImageResource(R.drawable.weather_yin);
+                        } else if (weathers.get(i).getWeather().equals("多云转阴")) {
+                            imgs.get(i).setImageResource(R.drawable.weather_yin);
+                        } else if (weathers.get(i).getWeather().equals("小雨")) {
+                            imgs.get(i).setImageResource(R.drawable.weather_yu);
                         }
                         tv1s.get(i).setText(weathers.get(i).getWind());
                         tv2s.get(i).setText(weathers.get(i).getTemperature());
