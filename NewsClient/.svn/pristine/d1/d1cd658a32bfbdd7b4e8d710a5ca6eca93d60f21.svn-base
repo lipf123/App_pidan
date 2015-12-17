@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_yin.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\src\\main\\res\\drawable\\weather_yin.png"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right.png",
+        "source": "G:\\SVN\\NewsClient\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\appicon.png",
+        "source": "G:\\SVN\\NewsClient\\app\\src\\main\\res\\drawable\\appicon.png"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test.jpg",
+        "source": "G:\\SVN\\NewsClient\\app\\src\\main\\res\\drawable\\test.jpg"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "G:\\SVN\\NewsClient\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_svprogresshuddefault.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_svprogresshuddefault.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertbutton_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_alertbutton_bottom.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_svstatus_error.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\ic_svstatus_error.png"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_actionsheet_header.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_actionsheet_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_svstatus_info.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\ic_svstatus_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_home_news.png",
+        "source": "G:\\SVN\\NewsClient\\app\\src\\main\\res\\drawable\\icon_home_news.png"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_svstatus_loading.png",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\ic_svstatus_loading.png"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_svstatus_error.png",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\ic_svstatus_error.png"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_yin.png",
+        "source": "G:\\SVN\\NewsClient\\app\\src\\main\\res\\drawable\\weather_yin.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertbutton_bottom.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_alertbutton_bottom.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_xue.png",
+        "source": "G:\\SVN\\NewsClient\\app\\src\\main\\res\\drawable\\weather_xue.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_svstatus_loading.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\ic_svstatus_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertbutton_left.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_alertbutton_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_actionsheet_cancel.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_actionsheet_cancel.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_yu.png",
+        "source": "G:\\SVN\\NewsClient\\app\\src\\main\\res\\drawable\\weather_yu.png"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_svstatus_info.png",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\ic_svstatus_info.png"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertbutton_right.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_alertbutton_right.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_svstatus_success.png",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\ic_svstatus_success.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertview_alert.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_alertview_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_svprogresshuddefault.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_svprogresshuddefault.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jbshape.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\src\\main\\res\\drawable\\jbshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_overlay_gradient.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_overlay_gradient.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_actionsheet_header.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_actionsheet_header.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertbutton_none.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_alertbutton_none.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_overlay_gradient.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_overlay_gradient.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b1.png",
+        "source": "G:\\SVN\\NewsClient\\app\\src\\main\\res\\drawable\\b1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_qingzhuanduoyun.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\src\\main\\res\\drawable\\weather_qingzhuanduoyun.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_svstatus_success.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\ic_svstatus_success.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_actionsheet_cancel.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_actionsheet_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertbutton_right.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_alertbutton_right.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn.png",
+        "source": "G:\\SVN\\NewsClient\\app\\src\\main\\res\\drawable\\btn.png"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_qingzhuanduoyun.png",
+        "source": "G:\\SVN\\NewsClient\\app\\src\\main\\res\\drawable\\weather_qingzhuanduoyun.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertview_alert.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_alertview_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_qing.png",
+        "source": "G:\\SVN\\NewsClient\\app\\src\\main\\res\\drawable\\weather_qing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_qing.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\src\\main\\res\\drawable\\weather_qing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertbutton_none.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_alertbutton_none.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_alertbutton_left.xml",
+        "source": "G:\\SVN\\NewsClient\\app\\build\\intermediates\\exploded-aar\\NewsClient\\pidanview\\unspecified\\res\\drawable\\bg_alertbutton_left.xml"
+    }
+]
