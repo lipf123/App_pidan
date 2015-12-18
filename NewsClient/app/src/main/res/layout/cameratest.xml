@@ -20,6 +20,7 @@
 
     <ImageView
         android:scaleType="fitXY"
+
         android:id="@+id/im_cameraTest"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

@@ -41,6 +41,7 @@ import android.widget.ImageView;
  * 创建日期： 2015/12/18  12:51
  * 项目作者： 赵文贇
  * 项目包名： xinfu.com.newsclient
+ * The system has the function of camera and photo album test
  */
 public class CameraTest extends Activity {
     private final int CAMERA = 0x01;
