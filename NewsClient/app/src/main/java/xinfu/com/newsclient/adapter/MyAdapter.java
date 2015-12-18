@@ -49,6 +49,10 @@ public abstract class MyAdapter<T> extends BaseAdapter {
         this.resId = resId;
     }
 
+    public void removeAll() {
+        this.list = new ArrayList<>();
+    }
+
     public List<T> getList() {
 
         return list;
