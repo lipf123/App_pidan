@@ -30,8 +30,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         >
-        <meta-data android:name="TA_APPKEY" android:value="AqcVBAPyY18tA3NXIY0" />
-        <meta-data android:name="InstallChannel" android:value="2" />
 
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
@@ -40,14 +38,14 @@
             android:name=".activity.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
             <activity android:name=".CameraTest">
-                <intent-filter>
-                    <action android:name="android.intent.action.MAIN" />
 
-                    <category android:name="android.intent.category.LAUNCHER" />
-                </intent-filter>
             </activity>
         <activity android:name=".activity.Activity_Parent"/>
         <service android:name="com.baidu.location.f" android:enabled="true" android:process=":remote">
