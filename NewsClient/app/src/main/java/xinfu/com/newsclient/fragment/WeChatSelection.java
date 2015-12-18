@@ -93,6 +93,7 @@ public class WeChatSelection extends Fragment implements AdapterView.OnItemClick
             public void onSucc(byte[] data) {
                 xLog("Succ:" + new String(data));
                 if (svProgressHUD != null) {
+
                     //
                     svProgressHUD.dismiss(getActivity());
                 }
