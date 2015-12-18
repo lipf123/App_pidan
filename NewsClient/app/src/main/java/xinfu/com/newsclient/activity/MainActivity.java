@@ -21,7 +21,7 @@ import xinfu.com.pidanview.alerterview.alerterview.OnItemClickListener;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private LinearLayout tv_newsHome, tv_weatherHome, tv_trainsTimeTable, tv_tvTimeTable, tv_youdao,tv_video;
+    private LinearLayout tv_newsHome, tv_weatherHome, tv_trainsTimeTable, tv_tvTimeTable, tv_youdao,tv_video,wechat;
     private NewsHome newsHome = null;
     private WeatherHome weatherHome = null;
     private TrainsTimeTableHome trainsTimeTableHome = null;
@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         tv_tvTimeTable = (LinearLayout) findViewById(R.id.tv_tvTimeTable);
         tv_youdao = (LinearLayout) findViewById(R.id.tv_youdao);
         tv_video= (LinearLayout) findViewById(R.id.tv_video);
+        wechat= (LinearLayout) findViewById(R.id.wechat);
 
         tv_newsHome.setOnClickListener(this);
         tv_weatherHome.setOnClickListener(this);
@@ -68,6 +69,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         tv_tvTimeTable.setOnClickListener(this);
         tv_youdao.setOnClickListener(this);
         tv_video.setOnClickListener(this);
+        wechat.setOnClickListener(this);
 //        Util.getInfo(this);
 
 //        xLog(Util.getAllApp(this));
@@ -99,6 +101,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.tv_video:
                 intent.putExtra("id", 6);
                 break;
+            case R.id.wechat:
+                intent.putExtra("id", 7);
+                break;
 
         }
         startActivity(intent);
@@ -117,7 +122,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     @Override
                     public void onItemClick(Object o, int position) {
                         xLog(position + "===========");
-                        if (position == 0) {
+                        if (position == 0) {    //
                             finish();
                         }
                     }
