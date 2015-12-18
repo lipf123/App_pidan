@@ -30,7 +30,21 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         >
-
+        <activity
+            android:name="com.tencent.tauth.AuthActivity"
+            android:noHistory="true"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="tencent1104950333" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.tencent.connect.common.AssistActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            />
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
             android:value="8qhFhMlw9I1YV0qF9Z6z5cnE"/>
