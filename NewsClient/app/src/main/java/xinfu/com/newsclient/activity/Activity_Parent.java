@@ -38,6 +38,7 @@ import xinfu.com.newsclient.fragment.NewsHome;
 import xinfu.com.newsclient.fragment.TVTimeTableHome;
 import xinfu.com.newsclient.fragment.TrainsTimeTableHome;
 import xinfu.com.newsclient.fragment.Video;
+import xinfu.com.newsclient.fragment.WeChatSelection;
 import xinfu.com.newsclient.fragment.WeatherHome;
 import xinfu.com.newsclient.fragment.YoudaoHome;
 
@@ -68,7 +69,7 @@ public class Activity_Parent extends Activity {
         fragmentList.add(new TVTimeTableHome());
         fragmentList.add(new YoudaoHome());
         fragmentList.add(new Video());
-
+        fragmentList.add(new WeChatSelection());
         mainView = R.id.mainView;
 //        newsHome = ;
 //        weatherHome = ;
@@ -104,6 +105,11 @@ public class Activity_Parent extends Activity {
             case 6:
                 if (!fragmentList.get(5).isVisible()) {
                     repleace(fragmentList.get(5));
+                }
+                break;
+            case 7:
+                if (!fragmentList.get(6).isVisible()) {
+                    repleace(fragmentList.get(6));
                 }
                 break;
         }
